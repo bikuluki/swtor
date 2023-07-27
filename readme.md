@@ -1,5 +1,5 @@
 <details><summary>FlowChart 7.3</summary>
-<img src="/img/flowchart.png" />
+<img src="img/flowchart.png" />
 </details>
 
 ## Jedi Knight
