@@ -25,6 +25,7 @@
 <li><a href="https://bikuluki.github.io/swtor.knight.3.2.korriban.flame">swtor.knight.3.2.korriban.flame</a></li>
 <li><a href="https://bikuluki.github.io/swtor.knight.3.3.voss">swtor.knight.3.3.voss</a></li>
 <li><a href="https://bikuluki.github.io/swtor.knight.3.4.corellia">swtor.knight.3.4.corellia</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.3.5.dromund.kaas">swtor.knight.3.5.dromund.kaas</a></li>
 </ul>
 </details>
 
