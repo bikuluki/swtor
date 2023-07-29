@@ -54,6 +54,11 @@
 <li><a href="https://bikuluki.github.io/swtor.warrior.3.6.korriban">swtor.warrior.3.6.korriban</a></li>
 </ul></details>
 
+## Planet Arcs
+<details><summary>Gallery</summary><ul>
+<li><a href="https://bikuluki.github.io/swtor.planet.01.coruscant">swtor.planet.01.coruscant</a></li>
+</ul></details>
+
 ## Post-Kotet
 <details><summary>Gallery</summary><ul>
 <li><a href="https://bikuluki.github.io/swtor.post.kotet">swtor.post.kotet</a></li>
