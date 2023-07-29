@@ -5,27 +5,27 @@
 ## Jedi Knight
 <details><summary>Gallery</summary>
 <ul>
-<li><a href="https://bikuluki.github.io/swtor.knight.0.prologue.1.tython">swtor.knight.0.prologue.1.tython</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.0.prologue.2.fleet">swtor.knight.0.prologue.2.fleet</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.0.prologue.3.coruscant">swtor.knight.0.prologue.3.coruscant</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.1.ord.mantell">swtor.knight.1.1.ord.mantell</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.2.taris">swtor.knight.1.2.taris</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.3.nar.shaddaa">swtor.knight.1.3.nar.shaddaa</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.4.abandonded.mining.facility.and.tython">swtor.knight.1.4.abandonded.mining.facility.and.tython</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.5.alderaan">swtor.knight.1.5.alderaan</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.6.tatooine">swtor.knight.1.6.tatooine</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.7.uphrades">swtor.knight.1.7.uphrades</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.1.8.opressor.and.tython">swtor.knight.1.8.opressor.and.tython</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.2.1.balmorra">swtor.knight.2.1.balmorra</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.2.2.quesh">swtor.knight.2.2.quesh</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.2.3.hoth">swtor.knight.2.3.hoth</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.2.4.fp.jedi.prisoner.taral.v.maelstrom.prison">swtor.knight.2.4.fp.jedi.prisoner.taral.v.maelstrom.prison</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.2.5.emperor.fortress">swtor.knight.2.5.emperor.fortress</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.3.1.belsavis">swtor.knight.3.1.belsavis</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.3.2.korriban.flame">swtor.knight.3.2.korriban.flame</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.3.3.voss">swtor.knight.3.3.voss</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.3.4.corellia">swtor.knight.3.4.corellia</a></li>
-<li><a href="https://bikuluki.github.io/swtor.knight.3.5.dromund.kaas">swtor.knight.3.5.dromund.kaas</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.0.1.tython">swtor.knight.1.0.1.tython</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.0.2.fleet">swtor.knight.1.0.2.fleet</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.0.3.coruscant">swtor.knight.1.0.3.coruscant</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.1.ord.mantell">swtor.knight.1.1.1.ord.mantell</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.2.taris">swtor.knight.1.1.2.taris</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.3.nar.shaddaa">swtor.knight.1.1.3.nar.shaddaa</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.4.abandonded.mining.facility.and.tython">swtor.knight.1.1.4.abandonded.mining.facility.and.tython</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.5.alderaan">swtor.knight.1.1.5.alderaan</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.6.tatooine">swtor.knight.1.1.6.tatooine</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.7.uphrades">swtor.knight.1.1.7.uphrades</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.1.8.opressor.and.tython">swtor.knight.1.1.8.opressor.and.tython</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.2.1.balmorra">swtor.knight.1.2.1.balmorra</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.2.2.quesh">swtor.knight.1.2.2.quesh</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.2.3.hoth">swtor.knight.1.2.3.hoth</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.2.4.fp.jedi.prisoner.taral.v.maelstrom.prison">swtor.knight.1.2.4.fp.jedi.prisoner.taral.v.maelstrom.prison</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.2.5.emperor.fortress">swtor.knight.1.2.5.emperor.fortress</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.3.1.belsavis">swtor.knight.1.3.1.belsavis</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.3.2.korriban.flame">swtor.knight.1.3.2.korriban.flame</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.3.3.voss">swtor.knight.1.3.3.voss</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.3.4.corellia">swtor.knight.1.3.4.corellia</a></li>
+<li><a href="https://bikuluki.github.io/swtor.knight.1.3.5.dromund.kaas">swtor.knight.1.3.5.dromund.kaas</a></li>
 </ul>
 </details>
 
