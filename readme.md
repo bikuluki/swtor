@@ -1,4 +1,6 @@
-<details><summary>FlowChart 7.3</summary>
+## Flow Chart
+
+<details class='gal'><summary>Gallery</summary>
 <img src="img/swtor.1.0.png" />
 <img src="img/swtor.1.1.png" />
 <img src="img/swtor.1.2.png" />
