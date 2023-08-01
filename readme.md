@@ -1,5 +1,14 @@
 <details><summary>FlowChart 7.3</summary>
-<a href="https://bikuluki.github.io/swtor/img/flowchart.png"><img src="img/flowchart.png" width="100%" /></a>
+<img src="img/swtor.1.0.png" />
+<img src="img/swtor.1.1.png" />
+<img src="img/swtor.1.2.png" />
+<img src="img/swtor.1.3.png" />
+<img src="img/swtor.1.4.png" />
+<img src="img/swtor.2.png" />
+<img src="img/swtor.3.png" />
+<img src="img/swtor.4.5.png" />
+<img src="img/swtor.6.png" />
+<img src="img/swtor.7.png" />
 </details>
 
 ## Jedi Knight
