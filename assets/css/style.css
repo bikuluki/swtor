@@ -12,18 +12,18 @@ div.image-gallery img {
   width: 30em;
   height: 20em;
 }
-p:has(img) {
+details:has(img) {
   display: flex; 
   flex-wrap: wrap; 
   justify-content: center; 
   max-width: 1530px;
   margin: 0em auto;
 }
-p img { 
+details img { 
   margin: 0;
   object-fit: contain;
   object-position: center;
-  width: 20em;
+  width: 30em;
 }
 
 
