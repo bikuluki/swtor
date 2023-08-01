@@ -12,6 +12,20 @@ div.image-gallery img {
   width: 40em;
   height: 30em;
 }
+p:has(img) {
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  max-width: 1530px;
+  margin: 0em auto;
+}
+p img { 
+  margin: 0;
+  object-fit: contain;
+  object-position: center;
+  width: 20em;
+}
+
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
