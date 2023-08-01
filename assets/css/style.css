@@ -9,8 +9,8 @@ div.image-gallery img {
   margin: 1px;
   object-fit: cover;
   object-position: center;
-  width: 40em;
-  height: 30em;
+  width: 30em;
+  height: 20em;
 }
 p:has(img) {
   display: flex; 
