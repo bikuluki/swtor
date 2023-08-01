@@ -1,5 +1,5 @@
 body { font: 16px/20px sans-serif; max-width: 1530px; margin: 0.1em auto; }
-img { padding: 0.1em; height: 40em; }
+img { padding: 0.1em; height: 30em; }
 
 div.image-gallery { 
   display: flex; 
