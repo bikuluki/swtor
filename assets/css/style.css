@@ -23,7 +23,7 @@ details img {
   margin: 0;
   object-fit: contain;
   object-position: center;
-  width: 30em;
+  height: 50em;
 }
 
 
@@ -50,6 +50,7 @@ html {
  */
 
 body {
+  font: 14px/16px "Fira Sans", sans-serif;
   margin: 0;
   padding: 0.1em;
 }
