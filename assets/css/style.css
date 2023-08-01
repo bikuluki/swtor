@@ -1,8 +1,8 @@
 body { font: 16px/20px sans-serif; max-width: 1530px; margin: 0.1em auto; }
 img { padding: 0.1em; height: 30em; }
-img:focus { 
+img:active { 
   position: fixed; top: 0; left: 0; bottom: 0; right: 0; z-index: 999;
-  object-fit: contain; width: 100%; height: 100%; padding: 1em; border: 1em solid white; 
+  object-fit: contain; width: 100%; height: 100%; margin: 1em; background-color: darkgrey; 
 }
 
 div.image-gallery { 
