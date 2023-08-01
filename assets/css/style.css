@@ -1,3 +1,6 @@
+body { font: 14px/16px "Fira Sans", sans-serif; max-width: 1530px; }
+img { padding: 0.1em; height: 50em; }
+
 div.image-gallery { 
   display: flex; 
   flex-wrap: wrap; 
@@ -11,19 +14,6 @@ div.image-gallery img {
   object-position: center;
   width: 30em;
   height: 20em;
-}
-details:has(img) {
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: center; 
-  max-width: 1530px;
-  margin: 0em auto;
-}
-details img { 
-  margin: 0;
-  object-fit: contain;
-  object-position: center;
-  height: 50em;
 }
 
 
@@ -50,7 +40,6 @@ html {
  */
 
 body {
-  font: 14px/16px "Fira Sans", sans-serif;
   margin: 0;
   padding: 0.1em;
 }
