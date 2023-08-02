@@ -2,7 +2,7 @@ body { font: 16px/20px sans-serif; max-width: 1530px; margin: 0 auto; background
 
 /* This is annoying on mobile. How do I only apply on large screens? */
 @media (min-width:800px) {
-  img { margin: 0; padding: 5px 0px 5px 5px; height: 30em; }
+  img { margin: 0; padding: 5px 0px 5px 5px; height: 20em; }
   p > img:active { position: fixed; top: 0; left: 0; bottom: 0; right: 0;
     z-index: 999; object-fit: contain; width: 100%; height: 100%; margin: 0;
     padding: 0; background-color: darkgrey; 
