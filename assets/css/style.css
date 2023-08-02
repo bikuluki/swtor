@@ -1,5 +1,6 @@
-html { background-color: darkgrey; text-align: center; }
-body { font: 16px/20px sans-serif; text-align: left; max-width: 1530px; margin: 0 auto; background-color: white; }
+html { background-color: darkgrey; }
+body { font: 16px/20px sans-serif; text-align: center; max-width: 1530px; margin: 0 auto; background-color: white; }
+p,div {margin: 1em auto 1em auto; text-align: left;}
 
 @media (min-width:800px) {
   img { margin: 0; padding: 5px 0px 5px 5px; height: 20em; }
