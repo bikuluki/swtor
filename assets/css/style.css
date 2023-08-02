@@ -11,8 +11,8 @@ h6::before { content: "###### " }
 
 @media (min-width:800px) {
   img { margin: 0; padding: 5px 0px 5px 5px; height: 20em; }
-  p > img:active { position: fixed; top: 0; left: 0; bottom: 0; right: 0; z-index: 999; object-fit: contain; width: 100%; height: 100%; margin: 0; padding: 0; background-color: darkgrey; }
-  p > a > img:active { position: fixed; top: 0; left: 0; bottom: 0; right: 0; z-index: 999; object-fit: contain; width: 100%; height: 100%; margin: 0; padding: 0; background-color: darkgrey; }
+  p,details > img:active { position: fixed; top: 0; left: 0; bottom: 0; right: 0; z-index: 999; object-fit: contain; width: 100%; height: 100%; margin: 0; padding: 0; background-color: darkgrey; }
+  p,details > a > img:active { position: fixed; top: 0; left: 0; bottom: 0; right: 0; z-index: 999; object-fit: contain; width: 100%; height: 100%; margin: 0; padding: 0; background-color: darkgrey; }
 }
 @media (max-width:800px) {
   img { margin: 0; padding: 0px 0px 0px 2px; width: 100%; }
