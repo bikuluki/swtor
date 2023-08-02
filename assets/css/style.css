@@ -1,3 +1,5 @@
+@include "https://cdn.simplecss.org/simple.css";
+
 html { background-color: darkgrey; }
 body { font: 16px/20px sans-serif; text-align: center; max-width: 1530px; margin: 1em auto; background-color: white; }
 p,div,h1,h2,h3,h4,h5,h6,ul {margin: 0.5em; text-align: left;}
@@ -15,13 +17,3 @@ p,div,h1,h2,h3,h4,h5,h6,ul {margin: 0.5em; text-align: left;}
 
 div.image-gallery { display: flex; flex-wrap: wrap; justify-content: center; margin: 0.1em; }
 div.image-gallery img { margin: 1px; object-fit: cover; object-position: center; width: 30em; height: 20em; }
-
-/* http://meyerweb.com/eric/tools/css/reset/ */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
-body { line-height: 1; }
-ol, ul { list-style: none; }
-blockquote, q { quotes: none; }
-blockquote:before, blockquote:after,
-q:before, q:after { content: ''; content: none; }
-table { border-collapse: collapse; border-spacing: 0; }
