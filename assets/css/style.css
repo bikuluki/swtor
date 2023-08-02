@@ -1,11 +1,7 @@
 @include "https://cdn.simplecss.org/simple.css";
 
 html { background-color: darkgrey; }
-body { 
-  font: 16px/20px sans-serif; max-width: 1530px; background-color: white;
-  margin: auto; padding: 0.5;
-}
-p,div,h1,h2,h3,h4,h5,h6,ul { text-align: left; }
+body { font: 16px/20px sans-serif; max-width: 1530px; background-color: white; margin: 0em auto; padding: 0.5em; }
 h1:before { content: "# " }; h1 { text-transform: uppercase; }
 h2:before { content: "## " }; h1 { text-transform: capitalize; }
 h3:before { content: "### " };
@@ -15,10 +11,7 @@ h6:before { content: "###### " };
 
 @media (min-width:800px) {
   img { margin: 0; padding: 5px 0px 5px 5px; height: 20em; }
-  p img:active { position: fixed; top: 0; left: 0; bottom: 0; right: 0;
-    z-index: 999; object-fit: contain; width: 100%; height: 100%; margin: 0;
-    padding: 0; background-color: darkgrey; 
-  }
+  p img:active { position: fixed; top: 0; left: 0; bottom: 0; right: 0; z-index: 999; object-fit: contain; width: 100%; height: 100%; margin: 0; padding: 0; background-color: darkgrey; }
 }
 @media (max-width:800px) {
   img { margin: 0; padding: 0px 0px 0px 2px; width: 100%; }
@@ -26,3 +19,10 @@ h6:before { content: "###### " };
 
 div.image-gallery { display: flex; flex-wrap: wrap; justify-content: center; margin: 0.1em; }
 div.image-gallery img { margin: 1px; object-fit: cover; object-position: center; width: 30em; height: 20em; }
+
+/*
+ * vim: set textwidth=0:
+ * vim: set wrapmargin=0:
+ * vim: set nowrap:
+ * vim: set foldlevel=9:
+ */
