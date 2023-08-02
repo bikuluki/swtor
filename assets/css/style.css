@@ -3,8 +3,8 @@
 html { background-color: darkgrey; }
 body { font: 16px/20px sans-serif; max-width: 1530px; background-color: white; margin: 0em auto; padding: 0.5em; }
 h1:before { content: "# " }; h1 { text-transform: uppercase; }
-h2:before { content: "## " }; h1 { text-transform: capitalize; }
-h3:before { content: "### " };
+h2:before { content: "## " }; h2 { text-transform: capitalize; }
+h3:before { content: "### " }; h3 { text-transform: capitalize; }
 h4:before { content: "#### " };
 h5:before { content: "##### " };
 h6:before { content: "###### " };
