@@ -67,7 +67,14 @@
 ## Jedi Consular
 <details><summary>Gallery</summary>
 - story summary
-- link gallery
+<ul>
+<li><a href="/swtor.consular.qyzen">swtor.consular.qyzen</a></li>
+</ul>
+<ul>
+<li><a href="/swtor.consular.0.1.tython">swtor.consular.0.1.tython</a></li>
+<li><a href="/swtor.consular.1.1.coruscant">swtor.consular.1.1.coruscant</a></li>
+<li><a href="/swtor.consular.1.2.taris">swtor.consular.1.2.taris</a></li>
+</ul>
 </details>
 
 ## Planet Arcs
