@@ -1,16 +1,15 @@
 ## Flow Chart
-<details><summary>Gallery</summary>
-<img src="img/swtor.1.0.png" />
-<img src="img/swtor.1.1.png" />
-<img src="img/swtor.1.2.png" />
-<img src="img/swtor.1.3.png" />
-<img src="img/swtor.1.4.png" />
-<img src="img/swtor.2.png" />
-<img src="img/swtor.3.png" />
-<img src="img/swtor.4.5.png" />
-<img src="img/swtor.6.png" />
-<img src="img/swtor.7.png" />
-</details>
+<details><summary>Prelude</summary><img src="img/swtor.1.0.png" /></details>
+<details><summary>Act 1</summary><img src="img/swtor.1.1.png" /></details>
+<details><summary>Act 2</summary><img src="img/swtor.1.2.png" /></details>
+<details><summary>Act 3</summary><img src="img/swtor.1.3.png" /></details>
+<details><summary>Interlude</summary><img src="img/swtor.1.4.png" /></details>
+<details><summary>Rise of the Hutt Cartel</summary><img src="img/swtor.2.png" /></details>
+<details><summary>Shadow of Revan</summary><img src="img/swtor.3.png" /></details>
+<details><summary>KotFE/T</summary><img src="img/swtor.4.5.png" /></details>
+<details><summary>Jedi Under Siege</summary><img src="img/swtor.6.png" /></details>
+<details><summary>Legacy of the Sith</summary><img src="img/swtor.7.png" /></details>
+
 
 ## Jedi Knight
 <details><summary>Gallery</summary>
