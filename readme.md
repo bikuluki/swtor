@@ -38,8 +38,9 @@
 </ul>
 </details>
 
-## Sith Warrior 
-<details><summary>Gallery</summary><ul>
+## Republic Class Stories
+
+<details><summary>Sith Warrior</summary><ul>
 <li><a href="/swtor.warrior.0.1.korriban">swtor.warrior.0.1.korriban</a></li>
 <li><a href="/swtor.warrior.0.2.black.talon">swtor.warrior.0.2.black.talon</a></li>
 <li><a href="/swtor.warrior.0.3.dromund.kaas.n.vette.n.hk">swtor.warrior.0.3.dromund.kaas.n.vette.n.hk</a></li>
@@ -63,13 +64,10 @@
 <li><a href="/swtor.warrior.3.6.korriban">swtor.warrior.3.6.korriban</a></li>
 </ul></details>
 
-## Jedi Consular
-<details><summary>Gallery</summary>
+<details><summary>Jedi Consular</summary>
 - story summary
 <ul>
 <li><a href="/swtor.consular.qyzen">swtor.consular.qyzen</a></li>
-</ul>
-<ul>
 <li><a href="/swtor.consular.0.1.tython">swtor.consular.0.1.tython</a></li>
 <li><a href="/swtor.consular.1.1.coruscant">swtor.consular.1.1.coruscant</a></li>
 <li><a href="/swtor.consular.1.2.taris">swtor.consular.1.2.taris</a></li>
