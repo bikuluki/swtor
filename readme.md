@@ -10,9 +10,9 @@
 <details><summary>Jedi Under Siege</summary><img src="img/swtor.6.png" /></details>
 <details><summary>Legacy of the Sith</summary><img src="img/swtor.7.png" /></details>
 
+## Republic Class Stories
 
-## Jedi Knight
-<details><summary>Gallery</summary>
+<details><summary>Jedi Knight</summary>
 <ul>
 <li><a href="/swtor.knight.1.0.1.tython">swtor.knight.1.0.1.tython</a></li>
 <li><a href="/swtor.knight.1.0.2.fleet">swtor.knight.1.0.2.fleet</a></li>
@@ -38,7 +38,17 @@
 </ul>
 </details>
 
-## Republic Class Stories
+<details><summary>Jedi Consular</summary>
+- story summary
+<ul>
+<li><a href="/swtor.consular.qyzen">swtor.consular.qyzen</a></li>
+<li><a href="/swtor.consular.0.1.tython">swtor.consular.0.1.tython</a></li>
+<li><a href="/swtor.consular.1.1.coruscant">swtor.consular.1.1.coruscant</a></li>
+<li><a href="/swtor.consular.1.2.taris">swtor.consular.1.2.taris</a></li>
+</ul>
+</details>
+
+## Empire Class Stories
 
 <details><summary>Sith Warrior</summary><ul>
 <li><a href="/swtor.warrior.0.1.korriban">swtor.warrior.0.1.korriban</a></li>
@@ -64,15 +74,6 @@
 <li><a href="/swtor.warrior.3.6.korriban">swtor.warrior.3.6.korriban</a></li>
 </ul></details>
 
-<details><summary>Jedi Consular</summary>
-- story summary
-<ul>
-<li><a href="/swtor.consular.qyzen">swtor.consular.qyzen</a></li>
-<li><a href="/swtor.consular.0.1.tython">swtor.consular.0.1.tython</a></li>
-<li><a href="/swtor.consular.1.1.coruscant">swtor.consular.1.1.coruscant</a></li>
-<li><a href="/swtor.consular.1.2.taris">swtor.consular.1.2.taris</a></li>
-</ul>
-</details>
 
 ## Planet Arcs
 <details><summary>Gallery</summary><ul>
