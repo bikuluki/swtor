@@ -47,6 +47,9 @@
 <li><a href="/swtor.consular.1.2.taris">swtor.consular.1.2.taris</a></li>
 <li><a href="/swtor.consular.1.3.nar.shaddaa">swtor.consular.1.3.nar.shaddaa & Carida</a></li>
 <li><a href="/swtor.consular.1.4.tatooine">swtor.consular.1.4.tatooine</a></li>
+<li><a href="/swtor.consular.1.5.alderaan">swtor.consular.1.5.alderaan</a></li>
+<li><a href="/swtor.consular.2.1.balmorra">swtor.consular.2.1.balmorra</a></li>
+  
 </ul>
 </details>
 
