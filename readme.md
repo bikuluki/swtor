@@ -49,7 +49,10 @@
 <li><a href="/swtor.consular.1.4.tatooine">swtor.consular.1.4.tatooine</a></li>
 <li><a href="/swtor.consular.1.5.alderaan">swtor.consular.1.5.alderaan</a></li>
 <li><a href="/swtor.consular.2.1.balmorra">swtor.consular.2.1.balmorra</a></li>
-  
+<li><a href="/swtor.consular.2.2.quesh">swtor.consular.2.2.quesh</a></li>
+<li><a href="/swtor.consular.2.3.hoth">swtor.consular.2.3.hoth</a></li>
+<li><a href="/swtor.consular.3.1.belsavis">swtor.consular.3.1.belsavis</a></li>
+<li><a href="/swtor.consular.3.2.voss">swtor.consular.3.2.voss</a></li>
 </ul>
 </details>
 
