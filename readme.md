@@ -52,7 +52,7 @@
 <li><a href="/swtor.consular.2.2.quesh">swtor.consular.2.2.quesh</a></li>
 <li><a href="/swtor.consular.2.3.hoth">swtor.consular.2.3.hoth</a></li>
 <li><a href="/swtor.consular.3.1.belsavis">swtor.consular.3.1.belsavis</a></li>
-<li><a href="/swtor.consular.3.2.voss">swtor.consular.3.2.voss</a></li>
+<li><a href="/swtor.consular.3.2.voss">swtor.consular.3.2.voss & Javelin</a></li>
 </ul>
 </details>
 
@@ -92,3 +92,8 @@
 <details><summary>Gallery</summary><ul>
 <li><a href="/swtor.post.kotet">swtor.post.kotet</a></li>
 </ul></details>
+
+##
+{% if site.github.is_project_page %}
+  <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+{% endif %}
