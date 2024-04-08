@@ -1,4 +1,4 @@
-[GG16 The Old Republic Guide](GG16_The_Old_Republic)
+[GG16 The Old Republic Guide](GG16_The_Old_Republic.pdf)
 
 ## Flow Chart
 <details><summary>Prelude</summary><img src="img/swtor.1.0.png" /></details>
