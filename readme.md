@@ -87,29 +87,37 @@
 
 ## Empire Class Stories
 
-<details><summary>Sith Warrior</summary><ul>
+<details><summary>Sith Warrior</summary>
+
+https://www.swtor.com/info/news/blog/20150903-0
+
+<h3>Prologue</h3>
+
+As peace crumbles between the Empire and Republic, mighty new Sith are needed
+to lead the charge in the coming war.One such Force-sensitive is fated to rise rapidly to power and become one of the most powerful Sith in the galaxy. Under the instruction of Overseer Tremel, this privileged acolyte begins an accelerated training regimen in the Sith Academy of Korriban. The acolyte conquers the Sith trials, dominates the other students, and displays unrivaled strength in battle to become the cunning Sith Lord Darth `Baras`’s apprentice and the Empire’s newest, most promising Sith Warrior.
+
+<h3> Chapter One: Hunt for the Padawan</h3>
+
+The Sith warrior bows to Darth `Baras`, a cunning and cruel Sith spymaster whose vast network of agents has infiltrated every level of the Republic. When an unknown force begins exposing `Baras`’s agents, he directs his Sith apprentice to root out and destroy this menace to his spy network. Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth `Baras`, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of `Baras`’s work.
+
+At `Baras`’s direction, the Sith warrior hunts across the galaxy in pursuit of Nomen Karr and his clairvoyant Padawan. When the Sith warrior finally discovers the identity of the Padawan – a former Alderaanian handmaiden named Jaesa Willsaam – Darth `Baras` orchestrates a plan to utterly destroy Nomen Karr and lure Jaesa out of hiding. The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith’s strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth `Baras`’s spy network and dealing the final devastating blow to the Jedi Master Nomen Karr.
+
+<h3> Chapter Two: Plan Zero</h3>
+
+With his spy network saved, Darth `Baras` rewards his apprentice with the rank of Sith Lord, and bids the warrior to carry out Plan Zero. This new task is key to Darth `Baras`’s master strategy designed to decapitate the upper echelon of the Republic’s military leadership and goad the Republic into war.
+
+Acting on intelligence from Darth `Baras`’s spy network, the Sith warrior wages a devastating campaign to hunt down and destroy the Republic’s top military leaders. The warrior completes Plan Zero and pushes the Republic to the brink of war – just as Darth `Baras`’s Master, the powerful Dark Council member Darth Vengean, desires. But when Darth `Baras` secretly betrays his Master and leads Vengean’s flagship into a Republic ambush, Vengean loses face in the Empire. On Darth `Baras`’s bidding, the warrior defeats Darth Vengean in a ferocious duel in the Citadel of Dromund Kaas. When Vengean falls, Darth `Baras` claims his former Master’s Dark Council seat and the galaxy erupts once more into open warfare.
+
+<h3> Chapter Three: Revenge of the Wrath</h3>
+
+Fearful of his apprentice’s growing power, Darth `Baras` enacts a plot to kill the mighty Sith warrior. A subterranean cave-in nearly crushes the Sith, until the wounded Sith Lord is saved from the rubble by a secretive and mysterious group known as the Emperor’s Hand. They anoint the Sith warrior as the Emperor’s personal executioner – the Emperor’s Wrath. The Hand then reveals that Darth `Baras` intends to usurp the Emperor’s power, an act of treason only made possible because the absent Emperor is preparing for a greater calling. `Baras` plots to rule by falsely claiming to speak the Emperor’s will. Fueled by revenge and guided by the Emperor’s Hand, the Sith warrior sets out to destroy Darth `Baras` before he seizes control of the Empire. The Emperor’s Wrath joins forces with Darth Vowrawn, a charming member of the Dark Council, to weaken `Baras` and support the challenge against the Wrath’s former Master. When all the pieces are in place, the Wrath prepares for the final crushing assault against Darth `Baras`.
+
+The Emperor’s Wrath ultimately marches into the Dark Council chambers to expose Darth `Baras` as a fraud and traitor who lies about speaking the Emperor’s will. But to prove such a bold claim to the Dark Council, the Wrath battles Darth `Baras` in a fierce duel. The Wrath emerges triumphant, striking down the ruined and seething Darth `Baras`. With vengeance delivered and the Emperor’s will satisfied, the Dark Council bows to the unquestionable might of the Emperor’s Wrath.
+
+<ul>
 <li><a href="/swtor.warrior.0.1.korriban">swtor.warrior.0.1.korriban</a></li>
-<li><a href="/swtor.warrior.0.2.black.talon">swtor.warrior.0.2.black.talon</a></li>
-<li><a href="/swtor.warrior.0.3.dromund.kaas.n.vette.n.hk">swtor.warrior.0.3.dromund.kaas.n.vette.n.hk</a></li>
-<li><a href="/swtor.warrior.1.1.balmorra">swtor.warrior.1.1.balmorra</a></li>
-<li><a href="/swtor.warrior.1.2.nar.shaddaa">swtor.warrior.1.2.nar.shaddaa</a></li>
-<li><a href="/swtor.warrior.1.3.orbital.station">swtor.warrior.1.3.orbital.station</a></li>
-<li><a href="/swtor.warrior.1.4.alderaan">swtor.warrior.1.4.alderaan</a></li>
-<li><a href="/swtor.warrior.1.5.tatooine">swtor.warrior.1.5.tatooine</a></li>
-<li><a href="/swtor.warrior.1.6.jaessa.ship">swtor.warrior.1.6.jaessa.ship</a></li>
-<li><a href="/swtor.warrior.1.7.hutta">swtor.warrior.1.7.hutta</a></li>
-<li><a href="/swtor.warrior.2.0.plan.zero">swtor.warrior.2.0.plan.zero</a></li>
-<li><a href="/swtor.warrior.2.1.taris">swtor.warrior.2.1.taris</a></li>
-<li><a href="/swtor.warrior.2.2.darth.vengean.flagship">swtor.warrior.2.2.darth.vengean.flagship</a></li>
-<li><a href="/swtor.warrior.2.3.hoth">swtor.warrior.2.3.hoth</a></li>
-<li><a href="/swtor.warrior.2.4.dromund.kaas">swtor.warrior.2.4.dromund.kaas</a></li>
-<li><a href="/swtor.warrior.3.1.quesh">swtor.warrior.3.1.quesh</a></li>
-<li><a href="/swtor.warrior.3.2.belsavis">swtor.warrior.3.2.belsavis</a></li>
-<li><a href="/swtor.warrior.3.3.hoth">swtor.warrior.3.3.hoth</a></li>
-<li><a href="/swtor.warrior.3.4.voss">swtor.warrior.3.4.voss</a></li>
-<li><a href="/swtor.warrior.3.5.corellia">swtor.warrior.3.5.corellia</a></li>
-<li><a href="/swtor.warrior.3.6.korriban">swtor.warrior.3.6.korriban</a></li>
-</ul></details>
+</ul>
+</details>
 
 
 ## Planet Arcs
