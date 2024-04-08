@@ -41,7 +41,7 @@
 <details><summary>Jedi Consular</summary>
 - story summary
 <ul>
-<li><a href="/swtor.consular.qyzen">swtor.consular.qyzen</a></li>
+<li><a href="/swtor.consular.companions">swtor.consular.companions</a></li>
 <li><a href="/swtor.consular.0.1.tython">swtor.consular.0.1.tython</a></li>
 <li><a href="/swtor.consular.1.1.coruscant">swtor.consular.1.1.coruscant</a></li>
 <li><a href="/swtor.consular.1.2.taris">swtor.consular.1.2.taris</a></li>
@@ -53,6 +53,7 @@
 <li><a href="/swtor.consular.2.3.hoth">swtor.consular.2.3.hoth</a></li>
 <li><a href="/swtor.consular.3.1.belsavis">swtor.consular.3.1.belsavis</a></li>
 <li><a href="/swtor.consular.3.2.voss">swtor.consular.3.2.voss & Javelin</a></li>
+<li><a href="/swtor.consular.3.3.corellia">swtor.consular.3.3.corellia</a></li>
 </ul>
 </details>
 
