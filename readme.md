@@ -41,7 +41,33 @@
 </details>
 
 <details><summary>Jedi Consular</summary>
-- story summary
+
+### Prologue
+
+In a time of great turmoil across the galaxy, a gifted Padawan travels to the Jedi’s ancient homeworld of Tython to complete the final trials and become a fully fledged Jedi. Under the tutelage of Master Yuon Par, an unorthodox but experienced teacher and historian, a sinister plot is uncovered that could bring about the destruction of the Jedi Order.
+
+Embodying the true skill and dedication, the Padawan confronts the spirit of an ancient Jedi known as Rajivari, and defeats a vengeful young man who had pledged himself to learning Rajivari’s secrets. Impressed by these exceptional achievements, the Jedi Council promotes Yuon’s Padawan to full membership in the Order as its newest Consular. However, this powerful Jedi’s adventures are only just beginning…
+
+### Chapter One: The Plague of Lord Vivicar
+
+As the Consular ascends to the rank of full Jedi, several of the galaxy’s most talented Jedi Masters are suddenly stricken with a mysterious illness. This plague cripples its victims with paranoia and madness, driving them towards the dark side of the Force. Master Yuon Par is one of the first to suffer the strange plague’s effects, leaving her determined former student to seek out an ancient shielding technique, which may be Yuon’s only hope. The technique is a success and Yuon is saved from the plague’s worst effects. The Consular – now the only Jedi in the galaxy who knows the secrets of this shielding technique – sets out on a dangerous adventure to seek out others afflicted by the plague and determine its cause.
+
+After a long and difficult search, the Consular discovers that the plague was created long ago, by an ancient Sith who possesses terrifying power. The identity of the man responsible for the plague’s reemergence is also revealed: a Sith Lord known as Vivicar. A corrupted former Jedi, Vivicar sought revenge against the Jedi who had left him for dead during a mission to the corrupted world of Malachor III. Vivicar unleashed the plague upon these Jedi, which forced them to relive that fateful mission.
+
+Boarding Vivicar’s flagship, the Consular challenges and defeats Vivicar, only to discover that Vivicar is possessed by the spirit of the plague’s original creator, the ancient Sith Lord Terrak Morrhage. The Consular faces a near-impossible choice: risk attempting to redeem Vivicar and restore every Jedi afflicted with his plague, or cut Vivicar down, which would kill every plague-stricken Jedi, but would also destroy the plague and its evil, forever.
+
+### Chapter Two: The Rift Alliance
+
+Having demonstrated exceptional wisdom and skill, the Consular is granted the rank of Master just in time for a new and challenging assignment. With many Republic member-worlds losing faith that the Empire can be defeated, ad group of indispensable planets, including Balmorra, Saleucami, Manaan, Aeten II, and Erigorm, have bonded together to form the Rift Alliance, a group of worlds nearing outright rebellion. The newly promoted Jedi Consular is charged by the Supreme Chancellor himself with the task of aiding these worlds and re-forging their shattered trust in the Republic.
+
+Traveling across the galaxy, the Consular works with Rift Alliance representatives to protect their worlds and win their trust. But a sudden betrayal by a member of the Alliance reveals that the Republic and the Jedi Order have both been infiltrated by an unknown number of spies known as the Children of the Emperor. Manipulated by the Emperor’s power, these spies are ignorant of the evil lurking inside them. Not even the Jedi can sense their corruption. But with a full-scale war erupting across the galaxy, the Children are about to “awaken” and strike where the Republic is most vulnerable.
+
+### Chapter Three: Children of the Emperor
+
+Faced with undetectable infiltrators and a full-scale Imperial onslaught, the Consular and the Rift Alliance work together to recruit new Republic allies. The Consular rallies an army of powerful allies on the distant worlds of Voss and Belsavis and leads their charge to the embattled world of Corellia. There, the Children of the Emperor have fully awakened and spread chaos in the Republic ranks. Perhaps worst of all, the Childrens’ leader, the “First Son” is revealed to be a trusted and longtime member of the Jedi Council.
+
+Acting on the Consular’s advice, the armies of the Rift Alliance gradually push back the Empire’s forces on Corellia to uncover the First Son’s hiding place. The determined Consular launches a last-ditch assault against the First Son’s lair. In a climactic final battle with the galaxy at stake, these two masters of the Force cross sabers. The Consular ultimately defeats the First Son and emerges victorious. Without the First Son’s protection, the Children of the Emperor are revealed to the Jedi, allowing the Republic to steel itself against the Empire. Meanwhile the Consular is saluted as a hero of the order, ready for whatever challenges lie ahead.
+
 <ul>
 <li><a href="/swtor.consular.companions">swtor.consular.companions</a></li>
 <li><a href="/swtor.consular.0.1.tython">swtor.consular.0.1.tython</a></li>
