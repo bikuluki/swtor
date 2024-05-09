@@ -89,6 +89,16 @@
 
 <details><summary>Sith Warrior</summary>
 
+<ul>
+<li><a href="/swtor.warrior.0.1.korriban">swtor.warrior.0.1.korriban</a></li>
+<li><a href="/swtor.warrior.0.1.korriban/">swtor.warrior.0.1.korriban</a></li>
+<li><a href="/swtor.warrior.0.2.dromund.kaas/">swtor.warrior.0.2.dromund.kaas</a></li>
+<li><a href="/swtor.warrior.1.1.balmorra/">swtor.warrior.1.1.balmorra</a></li>
+<li><a href="/swtor.warrior.1.2.nar.shaddaa/">swtor.warrior.1.2.nar.shaddaa</a></li>
+<li><a href="/swtor.warrior.1.3.tatooine/">swtor.warrior.1.3.tatooine</a></li>
+<li><a href="/swtor.warrior.1.4.alderaan/">swtor.warrior.1.4.alderaan</a></li>
+</ul>
+
 https://www.swtor.com/info/news/blog/20150903-0
 
 <h3>Prologue</h3>
@@ -113,19 +123,6 @@ Acting on intelligence from Darth `Baras`’s spy network, the Sith warrior wage
 Fearful of his apprentice’s growing power, Darth `Baras` enacts a plot to kill the mighty Sith warrior. A subterranean cave-in nearly crushes the Sith, until the wounded Sith Lord is saved from the rubble by a secretive and mysterious group known as the Emperor’s Hand. They anoint the Sith warrior as the Emperor’s personal executioner – the Emperor’s Wrath. The Hand then reveals that Darth `Baras` intends to usurp the Emperor’s power, an act of treason only made possible because the absent Emperor is preparing for a greater calling. `Baras` plots to rule by falsely claiming to speak the Emperor’s will. Fueled by revenge and guided by the Emperor’s Hand, the Sith warrior sets out to destroy Darth `Baras` before he seizes control of the Empire. The Emperor’s Wrath joins forces with Darth Vowrawn, a charming member of the Dark Council, to weaken `Baras` and support the challenge against the Wrath’s former Master. When all the pieces are in place, the Wrath prepares for the final crushing assault against Darth `Baras`.
 
 The Emperor’s Wrath ultimately marches into the Dark Council chambers to expose Darth `Baras` as a fraud and traitor who lies about speaking the Emperor’s will. But to prove such a bold claim to the Dark Council, the Wrath battles Darth `Baras` in a fierce duel. The Wrath emerges triumphant, striking down the ruined and seething Darth `Baras`. With vengeance delivered and the Emperor’s will satisfied, the Dark Council bows to the unquestionable might of the Emperor’s Wrath.
-
-<ul>
-<li><a href="/swtor.warrior.0.1.korriban">swtor.warrior.0.1.korriban</a></li>
-</ul>
-
-
-- [swtor.warrior.0.1.korriban](https://xrxfxt.github.io/swtor.warrior.0.1.korriban/)
-- [swtor.warrior.0.2.dromund.kaas](https://xrxfxt.github.io/swtor.warrior.0.2.dromund.kaas/)
-- [swtor.warrior.1.1.balmorra](https://xrxfxt.github.io/swtor.warrior.1.1.balmorra/)
-- [swtor.warrior.1.2.nar.shaddaa](https://xrxfxt.github.io/swtor.warrior.1.2.nar.shaddaa/)
-- [swtor.warrior.1.3.tatooine](https://xrxfxt.github.io/swtor.warrior.1.3.tatooine/)
-- [swtor.warrior.1.4.alderaan](https://xrxfxt.github.io/swtor.warrior.1.4.alderaan/)
-
 </details>
 
 
