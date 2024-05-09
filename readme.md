@@ -117,6 +117,15 @@ The Emperor’s Wrath ultimately marches into the Dark Council chambers to expos
 <ul>
 <li><a href="/swtor.warrior.0.1.korriban">swtor.warrior.0.1.korriban</a></li>
 </ul>
+
+
+- [swtor.warrior.0.1.korriban](https://xrxfxt.github.io/swtor.warrior.0.1.korriban/)
+- [swtor.warrior.0.2.dromund.kaas](https://xrxfxt.github.io/swtor.warrior.0.2.dromund.kaas/)
+- [swtor.warrior.1.1.balmorra](https://xrxfxt.github.io/swtor.warrior.1.1.balmorra/)
+- [swtor.warrior.1.2.nar.shaddaa](https://xrxfxt.github.io/swtor.warrior.1.2.nar.shaddaa/)
+- [swtor.warrior.1.3.tatooine](https://xrxfxt.github.io/swtor.warrior.1.3.tatooine/)
+- [swtor.warrior.1.4.alderaan](https://xrxfxt.github.io/swtor.warrior.1.4.alderaan/)
+
 </details>
 
 
